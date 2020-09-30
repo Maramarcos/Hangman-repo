@@ -1,2 +1,2 @@
 # Hangman-repo
-Simple hangman game
+Simple hangman game written in python
