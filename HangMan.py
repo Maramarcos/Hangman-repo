@@ -1,4 +1,3 @@
-# Write your code here
 import random
 print("H A N G M A N")
 response = input('Type "play" to play the game, "exit" to quit:')
